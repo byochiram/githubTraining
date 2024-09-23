@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <H1>Pesantren kilat github</H1>
+    
     <a href={{route("okky")}}>
         <div class="">
             <h1>Okky</h1>
