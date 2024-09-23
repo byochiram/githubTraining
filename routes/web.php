@@ -33,3 +33,4 @@ Route::get('/Ida', function(){
 Route::get('/Aulya', function(){
     return view('aulya');
 })->name('aulya');
+?>
